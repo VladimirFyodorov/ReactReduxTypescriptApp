@@ -1,5 +1,6 @@
 # React-Redux app on TypeScript
 
+
 Download repository
 
 In directory run
@@ -10,5 +11,8 @@ In directory run
 
 // npm install redux-thunk @types/redux-thunk
 
+
+
 if in src/index.tsx or src/components/app/App.tsx you are getting a lot of errors try run
+
 // npm install @types/react
